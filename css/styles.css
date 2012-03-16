@@ -81,6 +81,10 @@ Feb.23,2012
   				margin-left: 10px;
   				color: #cc0000;
   }
+  
+  #errorsLink {
+  				display: none;
+  }
      
    p {
    	  font-size: 14px;
